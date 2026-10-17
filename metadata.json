@@ -1,0 +1,6 @@
+{
+  "name": "Société Générale - Espace Client",
+  "description": "Application bancaire en ligne : consultation des comptes, virements instantanés, gestion des cartes et suivi de budget.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
